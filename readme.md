@@ -70,19 +70,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-npm i axios vform // помогает валидировать форму
-php artisan make:controller API/UserController --api
-npm install moment --save
-npm install vue-progressbar --save
-npm install sweetalert2 --save
-composer require laravel/passport
-composer require intervention/image
-http://undraw.co/illustrations
-npm install laravel-vue-pagination
-
-Client ID: 1
-Client secret: lTZA1rt9EgJiBfjUsdo7aZ0x9XuhmbfGDcafN2PD
-Password grant client created successfully.
-Client ID: 2
-Client secret: 8NcPNzXwZ0VUix6chY2bSyZpV8RSHrBBX8KRe6UI
